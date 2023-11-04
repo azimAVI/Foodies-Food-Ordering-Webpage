@@ -41,4 +41,4 @@ Contributions to this project are welcome. If you encounter any issues or have s
 For any questions or inquiries, please reach out to [me](https://www.linkedin.com/in/aayushverma2002/)
 
 ## 👉You can go through my project: 
-   - link: foodies-food-ordering.netlify.app
+   - link: https://foodies-food-ordering.netlify.app
