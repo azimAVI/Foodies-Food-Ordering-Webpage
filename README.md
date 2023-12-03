@@ -39,6 +39,3 @@ Contributions to this project are welcome. If you encounter any issues or have s
 ## Contact
 
 For any questions or inquiries, please reach out to [me](https://www.linkedin.com/in/aayushverma2002/)
-
-## 👉You can go through my project: 
-   - link: https://foodies-food-ordering.netlify.app
